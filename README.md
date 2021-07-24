@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maramFaraj
-- 👀 I’m interested in learning paython and asp.net c#
-- 🌱 I’m currently learning paython
+- 👀 I’m interested in learning python and asp.net c#
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programming new queue system 
 - 📫 How to reach me .. via email maram.f.alshammari@gmail.com
 
